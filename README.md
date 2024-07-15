@@ -1,5 +1,3 @@
-# README
-
 ## Project: Time-Series Forecasting of Retail Sales using Facebook Prophet
 
 ### Table of Contents
